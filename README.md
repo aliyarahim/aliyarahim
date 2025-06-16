@@ -6,7 +6,7 @@ I am proficient in designing scalable, high-performance applications and have ha
 
 ## Skills & Technologies
 - **Frontend**: React, NextJS, HTML, CSS, JavaScript (ES6+), Tailwind CSS
-- **Backend**: Node.js, Express, Python, Django, Flask, REST APIs, GraphQL
+- **Backend**: Node.js, Express, and REST APIs
 - **Databases**: MongoDB, PostgreSQL, MySQL, Firebase
 
 
