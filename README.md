@@ -13,9 +13,8 @@ I am proficient in designing scalable, high-performance applications and have ha
 ## Stats & Experience
 ### 📊 GitHub Stats
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanabbasi404&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ahsanabbasi404&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanabbasi404&layout=compact&theme=radical)
 
 ---
 - **AI Projects**: Developed and deployed 3+ AI agents for various use cases such as chatbots, recommendation systems, and process automation.
