@@ -5,11 +5,10 @@ Hi, I'm Aliya, a Full Stack Developer with a deep passion for building intellige
 I am proficient in designing scalable, high-performance applications and have hands-on experience with various machine learning techniques, including natural language processing, recommendation systems, and automation tools.
 
 ## Skills & Technologies
-- **Frontend**: React, Vue.js, Angular, HTML, CSS, JavaScript (ES6+), Tailwind CSS
+- **Frontend**: React, NextJS, HTML, CSS, JavaScript (ES6+), Tailwind CSS
 - **Backend**: Node.js, Express, Python, Django, Flask, REST APIs, GraphQL
 - **Databases**: MongoDB, PostgreSQL, MySQL, Firebase
-- **AI/ML**: TensorFlow, Keras, PyTorch, OpenAI API, NLP, Reinforcement Learning
-- **DevOps & Cloud**: Docker, Kubernetes, AWS, CI/CD, Git
+
 
 ## Stats & Experience
 ### 📊 GitHub Stats
