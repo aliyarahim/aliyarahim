@@ -1,27 +1,19 @@
-# Aliya – Full Stack Developer & AI Enthusiast
+<h1 align="center">Hi 👋, I'm Aliya Rahim</h1>
+<h3 align="center">Full Stack Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghulammustafa934&label=Profile%20views&color=0e75b6&style=flat" alt="ghulammustafa934" /> </p>
 
-Hi, I'm Aliya, a Full Stack Developer with a deep passion for building intelligent applications powered by AI. I specialize in both frontend and backend technologies and have extensive experience in creating AI agents that add value to the user experience.
+<p align="left">I am proficient in designing scalable, high-performance applications and have hands-on experience with various machine learning techniques, including natural language processing, recommendation systems, and automation tools.</p>
 
-I am proficient in designing scalable, high-performance applications and have hands-on experience with various machine learning techniques, including natural language processing, recommendation systems, and automation tools.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/aliya-rahim-aab00a349/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aliya Rahim" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/65200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="65200" height="30" width="40" /></a>
+</p>
 
 ## Skills & Technologies
 - **Frontend**: React, NextJS, HTML, CSS, JavaScript (ES6+), Tailwind CSS
 - **Backend**: Node.js, Express, and REST APIs
 - **Databases**: MongoDB, PostgreSQL, MySQL, Firebase
 
-
-## Stats & Experience
-### 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=aliyarahim&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliyarahim&layout=compact&theme=radical)
-
----
-- **AI Projects**: Developed and deployed 3+ AI agents for various use cases such as chatbots, recommendation systems, and process automation.
-- **Open Source**: Contributed to over 10 open-source projects, mainly related to AI, web development, and system optimization.
-- **GitHub Contributions**: Consistently making 50+ commits per month, working on both personal and collaborative projects.
-
-## What I Do
-I build intelligent and efficient applications that make use of the latest AI advancements. My goal is to seamlessly integrate machine learning into web and software development, creating solutions that are both innovative and practical.
-
-Feel free to check out my repositories, explore my projects, or reach out if you'd like to collaborate on exciting new ideas related to Full Stack Development and AI.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghulammustafa934" alt="ghulammustafa934" /></p>
